@@ -36,7 +36,6 @@ The results of the election audit analysis indicate the following:
 	- Arapahoe County had 24,801 voters and 6.7% of votes from each county out of the total count
 -	**County with the Highest Voter Turnout:** Denver County
 
-![Election Analysis](https://github.com/Morifingk/Election_Analysis/blob/main/Analysis/election_analysis.PNG)
 <img width="568" alt="Screen Shot 2022-12-04 at 4 11 32 PM" src="https://user-images.githubusercontent.com/104086409/205515860-476a8eeb-bde5-4ed4-a9c0-cc74c82592e2.png">
 
 ## Election Audit Summary
