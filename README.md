@@ -37,6 +37,7 @@ The results of the election audit analysis indicate the following:
 -	**County with the Highest Voter Turnout:** Denver County
 
 ![Election Analysis](https://github.com/Morifingk/Election_Analysis/blob/main/Analysis/election_analysis.PNG)
+<img width="568" alt="Screen Shot 2022-12-04 at 4 11 32 PM" src="https://user-images.githubusercontent.com/104086409/205515860-476a8eeb-bde5-4ed4-a9c0-cc74c82592e2.png">
 
 ## Election Audit Summary
 The script utilized to conduct this analysis can be modified to satisfy future analyses on elections. Specifically, the script can be tailored to scale up election results by changing counties to states or even evaluating additional congressional districts. 
